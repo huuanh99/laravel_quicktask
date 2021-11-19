@@ -42,7 +42,9 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    public function note()
+    protected $table='users';
+
+    public function notes()
     {
         return $this->hasMany(Note::class, 'user_id');
     }

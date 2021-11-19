@@ -1,0 +1,23 @@
+<?php
+return[
+    'App_name'=>"Note",
+    'number'=>'Number',
+    'content'=>'Content',
+    'action'=>'Action',
+    'addnote'=>'Add New Note',
+    'updateAccount'=>'Update Account',
+    'logout'=>'Logout',
+    'login'=>'LOGIN',
+    'changeLanguage'=>'Change Language',
+    'signup'=>'SIGN UP',
+    'cancel'=>'CANCEL',
+    'add'=>'ADD',
+    'ok'=>'OK',
+    'english'=>'ENGLISH',
+    'vietnamese'=>'VIETNAMESE',
+    'name'=>'NAME',
+    'password'=>'PASSWORD',
+    'confirmPassword'=>'CONFIRM PASSWORD',
+    'edit'=>'EDIT NOTE',
+    'remember_login'=>'Remember Login',
+];
