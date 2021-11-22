@@ -1,0 +1,23 @@
+<?php
+return[
+    'App_name'=>"Ghi chú",
+    'number'=>'STT',
+    'content'=>'Nội dung',
+    'action'=>'Hoạt động',
+    'addnote'=>'Thêm ghi chú',
+    'updateAccount'=>'Cập nhật thông tin',
+    'logout'=>'Đăng xuất',
+    'login'=>'Đăng nhập',
+    'changeLanguage'=>'Thay đổi ngôn ngữ',
+    'signup'=>'Đăng ký',
+    'cancel'=>'Hủy bỏ',
+    'add'=>'Thêm',
+    'ok'=>'Đồng ý',
+    'english'=>'TIẾNG ANH',
+    'vietnamese'=>'TIẾNG VIỆT',
+    'name'=>'Tên tài khoản',
+    'password'=>'Mật khẩu',
+    'confirmPassword'=>'Xác nhận mật khẩu',
+    'edit'=>'SỬA GHI CHÚ',
+    'remember_login'=>'Ghi nhớ đăng nhập',
+];
