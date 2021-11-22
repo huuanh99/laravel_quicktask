@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/bower_components
 .env
 .env.backup
 .phpunit.result.cache
